@@ -37,6 +37,7 @@ lerna-debug.log*
 Thumbs.db
 
 # Misc
+.angular/cache/
 .cache/
 .project
 .classpath
