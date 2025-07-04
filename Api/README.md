@@ -73,8 +73,6 @@ npm start
 docker-compose up -d
 ```
 
-A API estará disponível em **http://localhost:3000**
-
 ## Documentação da API
 
 ### Swagger UI
@@ -82,6 +80,10 @@ Acesse a documentação interativa da API em:
 **http://localhost:3000/api-docs**
 
 ## Endpoints
+A API estará disponível em **http://localhost:3000**
+  API Principal: **http://localhost:3000/api/awards/producer-intervals**
+  Documentação Swagger: **http://localhost:3000/api-docs/**
+  Interface Swagger UI: **http://localhost:3000/api-docs/**
 
 ### GET /api/awards/producer-intervals
 
